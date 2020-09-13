@@ -1,4 +1,4 @@
-# BBNaija
+# Big Brother Naija Eviction Prediction
  
 **Basically, this is me obviously having some fun.**
 
