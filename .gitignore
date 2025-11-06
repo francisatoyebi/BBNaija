@@ -1,0 +1,12 @@
+venv/
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+
+
+# Keep example output images
+!Scraped_tweets/bbnaija_pie.png
+!Scraped_tweets/bbnaija_bar.png
+
